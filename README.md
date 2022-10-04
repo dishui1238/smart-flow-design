@@ -184,7 +184,9 @@ npm publish
 
 ## 交流
 
-点击链接加入 qq 群聊，可以直接提问及反馈 bug
+点击链接加微信，可以直接提问及反馈 bug
+
+![图片](https://gitee.com/crowncloud/smart-flow-design/raw/master/wx.png)
 
 ## 字体资源地址
 

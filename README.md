@@ -28,6 +28,11 @@
 - [github](https://github.com/smart-flow/smart-flow-design)
 - [码云](https://gitee.com/crowncloud/smart-flow-design)
 
+## 预览 
+
+- 地址 http://47.109.22.115:10090/
+- 账号 admin/123456 luopeng/123456
+
 ## 特性
 
 - 支持在线流程设计器，钉钉审批模式，中国式工作流

@@ -31,7 +31,7 @@
 ## 预览 
 
 - 地址 http://47.109.22.115:10090/
-- 账号 admin/123456 luopeng/123456
+- 账号 admin/123456 zhangsan/123456  lisi/123456
 
 ## 特性
 
@@ -199,4 +199,4 @@ npm publish
 
 ## License
 
-[Apache](https://gitee.com/crowncloud/smart-flow-design/blob/master/LICENSE) Copyright (c) 2022 luocheng
+[Apache](https://gitee.com/crowncloud/smart-flow-design/blob/master/LICENSE) Copyright (c) 2022 

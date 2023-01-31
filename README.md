@@ -191,7 +191,7 @@ npm publish
 
 点击链接加微信，可以直接提问及反馈 bug
 
-![图片](https://gitee.com/crowncloud/smart-flow-design/raw/master/wx.png)
+![图片](https://gitee.com/crowncloud/smart-flow-design/raw/master/20230131114102.jpg)
 
 ## 字体资源地址
 
